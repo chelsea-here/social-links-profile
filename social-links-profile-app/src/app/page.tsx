@@ -23,11 +23,11 @@ export default function Home() {
           </div>
           <q className="text-white text-sm leading-normal">Front-end developer and avid reader.</q>
           <div className="flex flex-col items-center justify-center text-center gap-y-4 w-full">
-            <a className="hover:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">GitHub</a>
-            <a className="hover:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Frontend Mentor</a>
-            <a className="hover:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">LinkedIn</a>
-            <a className="hover:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Twitter</a>
-            <a className="hover:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Instagram</a>
+            <a className="hover:bg-green focus:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">GitHub</a>
+            <a className="hover:bg-green focus:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Frontend Mentor</a>
+            <a className="hover:bg-green focus:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">LinkedIn</a>
+            <a className="hover:bg-green focus:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Twitter</a>
+            <a className="hover:bg-green focus:bg-green text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal">Instagram</a>
           </div>
         </div>
       </div>
