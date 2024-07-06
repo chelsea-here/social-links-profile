@@ -31,14 +31,14 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="mt-2 left-0 right-0 justify-self-center">
+      {/* <div className="mt-2 left-0 right-0 justify-self-center">
         <footer id="attribution">
           <p className="text-white text-center text-[0.6875rem]">Challenge by <a className="text-blue" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
           </p>
           <p className="text-white text-center text-[0.6875rem]">Coded by <a className="text-blue" href="#">Chelsea Anne Livingston Cruz</a>.
           </p>
         </footer>
-      </div>
+      </div> */}
     </main>
   );
 }
