@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <q className="text-white text-sm leading-normal">Front-end developer and avid reader.</q>
           <div className="flex flex-col items-center justify-center text-center gap-y-4 w-full">
-            <a className="hover:bg-green hover:text-gray hover:cursor-pointer focus:bg-green focus:text-grey text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal" href="https://github.com">GitHub</a>
+            <a className="hover:bg-green hover:text-gray hover:cursor-pointer focus:bg-green focus:text-gray text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal" href="https://github.com">GitHub</a>
             <a className="hover:bg-green hover:text-gray hover:cursor-pointer focus:bg-green focus:text-gray text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal" href="https://www.frontendmentor.io">Frontend Mentor</a>
             <a className="hover:bg-green hover:text-gray hover:cursor-pointer focus:bg-green focus:text-gray text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal" href="https://www.linkedin.com">LinkedIn</a>
             <a className="hover:bg-green hover:text-gray hover:cursor-pointer focus:bg-green focus:text-gray text-white text-sm font-bold w-full p-3 bg-gray rounded-lg leading-normal" href="https://www.twitter.com">Twitter</a>
