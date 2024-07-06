@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./social-links-profile-app/screenshot.png)
 
 ### Links
 
